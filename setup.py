@@ -38,7 +38,7 @@ setup(
         ],
     install_requires = ['nose >= 0.11.1',
                         'pylint >= 0.18.1',
-                        'coverage == 2.85', 
+                        'coverage == 3.00',
                         'kid >= 0.9.6',
                         'pygments >= 1.0', ],
     package_data = {'nosexunit': ['nosexunit.css',
